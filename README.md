@@ -3,6 +3,6 @@
 Halooo Dunia
 Nama        : Ega Syahrul Ramadhanto
 Kelas       : FSWD 1
-Link Pages  : 
+Link Pages  : https://egganot.github.io/Tugas10-FSWD1-ega/
 
-Upload tugas 10
+Perbaikan 1
